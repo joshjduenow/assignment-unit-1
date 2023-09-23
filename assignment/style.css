@@ -1,4 +1,7 @@
 /* Add a background color to the header element */
+header {
+    color: darkgray;
+}
 
 /* Add a fun background color to the main element */
 
