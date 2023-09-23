@@ -16,13 +16,16 @@ h1 {
 
 /* Make your p tag a different color and italic */
 p {
-    color: crimson;
+    color: rgb(0, 0, 0);
     font-style: italic;
 }
 
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 /* Add a background color to the footer element */
 footer {
