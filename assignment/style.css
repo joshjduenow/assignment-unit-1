@@ -1,6 +1,7 @@
 /* Add a background color to the header element */
 header {
     color: darkgray;
+    background-color: slategrey;
 }
 
 /* Add a fun background color to the main element */
