@@ -15,7 +15,7 @@ h1 {
 }
 
 /* Make your p tag a different color and italic */
-p2 {
+p {
     color: crimson;
     font-style: italic;
 }
@@ -25,3 +25,6 @@ p2 {
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
+footer {
+    background-color: slategray;
+}
