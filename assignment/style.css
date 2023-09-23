@@ -6,7 +6,7 @@ header {
 
 /* Add a fun background color to the main element */
 main {
-    color: dimgray;
+    background-color: dimgray;
 }
 
 /* Align the h1 containing your name in the center of the header*/
