@@ -7,7 +7,7 @@ ls
 cd
 
 # 3 - What is the command for going "up" a folder (to a parent directory)?
-
+"Up" Arrow on keyboard
 
 # 4 - What is a quick way to create a new folder?
 mkdir
@@ -17,9 +17,10 @@ In and empty folder, I'd expect just to see the folder I am currently in.
 In a folder with files, I'd expect to see all files listed in that folder.
 
 # 6 - What is a quick way to create a new file?
-
+git add
 
 # 7 - Run 'git --version' in your terminal. What is the output?
+2.33.0
 
 # 8 - Why would you run the command 'git status'?
 to check the status of vscode changes
