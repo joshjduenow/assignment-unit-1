@@ -10,10 +10,14 @@ cd
 
 
 # 4 - What is a quick way to create a new folder?
+mkdir
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
+In and empty folder, I'd expect just to see the folder I am currently in.
+In a folder with files, I'd expect to see all files listed in that folder.
 
 # 6 - What is a quick way to create a new file?
+
 
 # 7 - Run 'git --version' in your terminal. What is the output?
 
@@ -21,7 +25,7 @@ cd
 to check the status of vscode changes
 
 # 9 - What does the command 'git add .' do?
-adds the changes from vscode
+adds the changes to the stage
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-commits the changes from vscode to github
+git commit
